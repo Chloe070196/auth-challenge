@@ -1,5 +1,11 @@
 # Authentication Challenge
 
+## To see my work...
+... make sure to check out the **freedom** branch! In this exercise, I went above and beyond, choosing to built the required app **from scratch**. It was an effective learning method, and I used this as an opportunity to practice using all the backend development skills I had acquired up until that point. My main aim was to keep my code **clean** and **easy to read**, be consistent with using **conventional commits**, and **structure my repo** in a way that made sense.
+
+______
+ORIGINAL README: (challenge instructions)
+______
 ## Learning Objectives
 
 - Use a token-based approach to authorise access to API resources
